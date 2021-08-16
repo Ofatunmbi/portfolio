@@ -9,7 +9,7 @@
     flex-direction: row;
     justify-content: space-between;
     padding: 15px;
-    background-color: indianred;
+    background-color: lightseagreen;
     color: ivory;
 }
 .navLink span {
@@ -65,7 +65,7 @@ h4{
 
 .page-footer{
     padding: 15px;
-    background-color: indianred;
+    background-color: lightseagreen;
     color: ivory;
     position: sticky;
     left: 0;
